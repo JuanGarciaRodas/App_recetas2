@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "id": "25dr",
+      "user": "admin",
+      "password": "12345",
+      "name": "Juan Carlos Garcia",
+      "email": "correo@correo.com",
+      "hobbies": [
+        "Domir",
+        "Comer",
+        "Jugar Play"
+      ]
+    },
+    {
+      "id": "5685",
+      "user": "newuser",
+      "password": "12345",
+      "name": "Luciana Marin",
+      "email": "correo@correo.com",
+      "hobbies": [
+        "Domir",
+        "Comer",
+        "Jugar Play"
+      ]
+    },
+    {
+      "id": "3c0a",
+      "user": "superadmin",
+      "password": "12345",
+      "name": "Natalia Marin",
+      "email": "correo@correo.com",
+      "hobbies": [
+        "Domir",
+        "Comer",
+        "Jugar Play"
+      ]
+    },
+    {
+      "id": "fe9b",
+      "user": "admindos",
+      "password": "",
+      "name": "",
+      "email": "",
+      "hobbies": ""
+    }
+  ]
+}
