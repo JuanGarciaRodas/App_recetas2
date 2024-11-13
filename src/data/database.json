@@ -28,7 +28,7 @@
       "id": "3c0a",
       "user": "superadmin",
       "password": "12345",
-      "name": "Natalia Marin",
+      "name": "Pablo Garcia",
       "email": "correo@correo.com",
       "hobbies": [
         "Domir",
@@ -44,5 +44,22 @@
       "email": "",
       "hobbies": ""
     }
-  ]
+  ],
+  "vegetarianas": [
+    {
+      "id": "1",
+      "nombre": "Tofu",
+      "descripcion": "Receta a base de Tofu y otros vegetales",
+      "dificultad": "Media",
+      "tiempo": "3 Horas"
+    },
+    {
+      "id": "2",
+      "nombre": "Hamburguesa de Lentejas",
+      "descripcion": "Hamburguesa vegetariana a base de Lentejas y otros granos",
+      "dificultad": "Media",
+      "tiempo": "2 Horas"
+    }
+  ],
+  "no-vegetarianas": []
 }
