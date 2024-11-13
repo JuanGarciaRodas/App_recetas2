@@ -60,7 +60,7 @@ const Vegetarianas = () => {
             >
               Eliminar
             </button>
-            <Link to={"/editar-receta-vegetariana"} className="editar">
+            <Link to={"/editar-receta-vegetariana/"+receta.id} className="editar">
               Editar
             </Link>
             <Link className="detalle">Detalles</Link>

@@ -31,7 +31,7 @@ export let enrutadorApp = [
                 element: <CrearRecetaVegetariana />
             },
             {
-                path: 'editar-receta-vegetariana',
+                path: 'editar-receta-vegetariana/:id',
                 element: <EditarRecetaVegetariana />
             }
         ]
